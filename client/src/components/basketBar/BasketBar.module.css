@@ -1,0 +1,19 @@
+.inner{
+    background-color: #fff;
+    padding: 16px
+}
+
+.form{
+    margin: 0 25px 0 0;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.remove__btn{
+    border: none;
+    background: transparent;
+    padding: 0;
+    color: #f91155;
+    font-size: 14px;
+    font-weight: 500;
+}
